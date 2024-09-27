@@ -115,7 +115,7 @@ export const personalInfo = [
   {
     id: 10,
     title: 'Langages : ',
-    description: 'Tamil, English',
+    description: 'English, Tamil',
   },
 ];
 
@@ -177,7 +177,7 @@ export const resume = [
     id: 4,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2015',
+    year: '2020',
     title: 'Engineering Degree <span> Oxford University </span>',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore',
   },
@@ -186,7 +186,7 @@ export const resume = [
     id: 5,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2012',
+    year: '2016',
     title: 'Master Degree <span> KIEV University </span>',
     desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
   },
@@ -195,7 +195,7 @@ export const resume = [
     id: 6,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2009',
+    year: '2014',
     title: 'Bachelor Degree <span> Tunis High School </span>',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore',
   },
@@ -228,19 +228,19 @@ export const skills = [
 
   {
     id: 5,
-    title: 'Wordpress',
+    title: 'Jquery',
     percentage: '95',
   },
 
   {
     id: 6,
-    title: 'Jquery',
+    title: 'Laravel',
     percentage: '50',
   },
 
   {
     id: 7,
-    title: 'Angular',
+    title: 'Node Js',
     percentage: '65',
   },
 
