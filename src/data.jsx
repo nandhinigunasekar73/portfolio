@@ -178,7 +178,7 @@ export const resume = [
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2020',
-    title: 'Engineering Degree <span> Oxford University </span>',
+    title: 'Bachelor Of Engineering <span> Anna University </span>',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore',
   },
 
@@ -187,7 +187,7 @@ export const resume = [
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2016',
-    title: 'Master Degree <span> KIEV University </span>',
+    title: 'HSLC <span> Kamaraj higher secondary school </span>',
     desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
   },
 
@@ -196,7 +196,7 @@ export const resume = [
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2014',
-    title: 'Bachelor Degree <span> Tunis High School </span>',
+    title: 'SSLC <span> Sri ganesar higher secondary school </span>',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore',
   },
 ];
