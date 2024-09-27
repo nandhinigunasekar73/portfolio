@@ -197,7 +197,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2014',
     title: 'SSLC <span> Sri ganesar higher secondary school </span>',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore ',
   },
 ];
 
